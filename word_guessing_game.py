@@ -1,7 +1,7 @@
 import random 
 word_bank = ['rizz', 'ohio', 'sigma', 'tiktok', 'hello kitty']
 
-word = random.choice(word_bank)
+word = random.choice(word_bank) 
 
 guessedWord = ['_'] * len(word)
 
