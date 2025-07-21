@@ -1,6 +1,6 @@
 
 # Word Guessing Game
-
+ 
 This is a simple word guessing game built with Python.  
 The player has to guess a randomly chosen word one letter at a time.  
 If the player guesses all letters within the allowed number of attempts, they win! Otherwise, they lose. 
