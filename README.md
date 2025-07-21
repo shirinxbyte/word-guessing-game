@@ -16,7 +16,7 @@ If the player guesses all letters within the allowed number of attempts, they wi
 ## Features
 
 - Random word selection from a word bank.
-- Shows current guessing progress after each guess.
+- Shows current guessing progress after each guess. 
 - Keeps track of remaining attempts.
 - Displays a congratulation message when the player wins.
 - Shows the correct word when the player runs out of attempts.
