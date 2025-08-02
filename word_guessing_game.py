@@ -4,7 +4,7 @@ word_bank = ['rizz', 'ohio', 'sigma', 'tiktok', 'hello kitty']
 word = random.choice(word_bank) 
 
 guessedWord = ['_'] * len(word) 
- 
+  
 attempts = 10
 
 
